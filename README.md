@@ -1,5 +1,5 @@
 ## React-nodeJs를 활용한 website
-
+![1231](https://github.com/rjswh0503/final-react-website/assets/141482043/1cbc4843-af8c-4d0f-a217-492ddcf4557e)
 
 
 ### 웹사이트 설명 

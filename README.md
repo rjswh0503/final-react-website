@@ -78,12 +78,12 @@ C:.
 
 ## 📚 STACKS
 <div align=center> 
-<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=reactos&logoColor=black" width="150px", height="200px">
-<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="150px", height="200px">
+<img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=reactos&logoColor=black" width="150px", height="100px">
+<img src="https://img.shields.io/badge/oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white" width="150px", height="100px">
     <br>
-<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" width="150px", height="200px">
-<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" width="150px", height="200px">
-<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" width="150px", height="200px">
+<img src="https://img.shields.io/badge/node.js-339933?style=for-the-badge&logo=Node.js&logoColor=white" width="150px", height="100px">
+<img src="https://img.shields.io/badge/express-000000?style=for-the-badge&logo=express&logoColor=white" width="150px", height="100px">
+<img src="https://img.shields.io/badge/bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white" width="150px", height="100px">
 </div>
 
 ## Usage

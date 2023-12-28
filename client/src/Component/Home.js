@@ -1,10 +1,6 @@
 
 import React from "react";
 import { BrowserRouter as Router, Routes, Route, Link } from 'react-router-dom';
-import MovieList from "./MovieList";
-import QuizApp from "./QuizApp";
-import TodoList from "./TodoList";
-import Blog from "./Blog";
 import { Container, Row, Col, Card, Button } from "react-bootstrap";
 
 

@@ -27,6 +27,9 @@ export default function Header(){
                     <Nav.Link as={Link} to="/blog">
                         Blog
                     </Nav.Link>
+                    <Nav.Link as={Link} to="/music">
+                        음악
+                    </Nav.Link>
                     
 
                     <NavDropdown title="Games" id="basic-nav-dropdown">
@@ -35,6 +38,15 @@ export default function Header(){
                         </NavDropdown.Item>
                         <NavDropdown.Item as={Link} to="/quiz">
                             Quiz
+                        </NavDropdown.Item>
+                    </NavDropdown>
+
+                    <NavDropdown title="weathers" id="basic-nav-dropdown">
+                        <NavDropdown.Item as={Link} to="/weatherSearch">
+                            날씨검색
+                        </NavDropdown.Item>
+                        <NavDropdown.Item as={Link} to="/weather">
+                            날씨보기
                         </NavDropdown.Item>
                     </NavDropdown>
 

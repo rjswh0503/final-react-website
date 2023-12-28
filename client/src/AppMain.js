@@ -1,12 +1,15 @@
 import { BrowserRouter as Router, Routes, Route, Link} from 'react-router-dom';
-import Blog from './Component/Blog';
+import Blog from './Component/blog/Blog';
 import Footer from './Component/Footer';
 import Header from './Component/Header';
 import Home from './Component/Home';
-import MovieLIst from './Component/MovieList';
-import NumberGuessingGame from './Component/NumberGuessingGame';
-import QuizApp from './Component/QuizApp';
-import TodoList from './Component/TodoList';
+import NumberGuessingGame from './Component/Game/NumberGuessingGame';
+import QuizApp from './Component/Game/QuizApp';
+import MovieLIst from './Component/movie/MovieList';
+import MusicPlayer from './Component/Music/MusicPlayer';
+import TodoList from './Component/Todo/TodoList';
+import Weather from './Component/weather/Weather';
+import WeatherSearch from './Component/weather/WeatherSearch';
 
 
 
@@ -33,6 +36,15 @@ function App() {
           </Routes>
           <Routes>
             <Route path='/quiz' element={<QuizApp/>} />
+          </Routes>
+          <Routes>
+            <Route path='/weather' element={<Weather/>} />
+          </Routes>
+          <Routes>
+            <Route path='/weatherSearch' element={<WeatherSearch/>} />
+          </Routes>
+          <Routes>
+            <Route path='/music' element={<MusicPlayer/>} />
           </Routes>
           
 

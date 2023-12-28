@@ -63,6 +63,14 @@ function Weather() {
                                 <p>온도: {weather.temp}</p>
                                 <p>습도: {weather.rh}%</p>
                                 <p>날씨: {weather.weather.description}</p>
+                                <p>국가 : {weather.timezone}</p>
+                                날씨 :{weather.weather.icon && (
+                        <img className='mb-3 img-fluid rounded mx-auto d-block' 
+                         src={`https://www.weatherbit.io/static/img/icons/${weather.weather.icon}.png`}
+                        alt='weather Icon'
+                        />
+                         
+                    )}
                             </div>
                         </div>
                     ) : (

@@ -88,7 +88,7 @@ C:.
 
 ## 구현기능
 
-1. API와 axios를 이용한 MovieList - 페이징
+1. MovieList - API와 axios를 이용한 MovieList(페이징)
 
 2. Todo List - 할일 목록, 삭제, 추가, 수정 
 

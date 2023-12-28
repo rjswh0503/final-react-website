@@ -1,6 +1,11 @@
 ## React-nodeJs를 활용한 website
+
+##Image
+Home
 ![1231](https://github.com/rjswh0503/final-react-website/assets/141482043/1cbc4843-af8c-4d0f-a217-492ddcf4557e)
 
+Movie
+![1232](https://github.com/rjswh0503/final-react-website/assets/141482043/4d45dc6d-fc83-40af-a961-9d06c64b3d2b)
 
 ### 웹사이트 설명 
 

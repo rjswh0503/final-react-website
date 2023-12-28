@@ -88,20 +88,14 @@ C:.
 
 ## 구현기능
 
-1. API와 axios를 이용한 MovieList 
+1. API와 axios를 이용한 MovieList - 페이징
 
-2. Todo List
+2. Todo List - 할일 목록, 삭제, 추가, 수정 
 
-3. Game 
+3. Game
+    3-1 - 숫자 맞추기
+    3-2 - 퀴즈
     
-
-## Contributing
-
-Pull requests are welcome. For major changes, please open an issue first
-to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
-
 ## License
 
 [GitHub](https://github.com/rjswh0503/)

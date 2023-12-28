@@ -9,25 +9,37 @@ React를 활용한 frontend구성
 
 ```bash
 C:.
-│  Footer.js
-│  Header.js
-│  Home.js
+│  App copy.js
+│  App.css
+│  App.js
+│  App.test.js
+│  AppMain.js
+│  index.css
+│  index.js
+│  logo.svg
+│  reportWebVitals.js
+│  setupTests.js
 │
-├─blog
-│      Blog.js
-│
-├─Game
-│      Game.css
-│      NumberGuessingGame.css
-│      NumberGuessingGame.js
-│      QuizApp.js
-│
-├─movie
-│      MovieCard.js
-│      MovieList.js
-│
-└─Todo
-        TodoList.js
+└─Component
+    │  Footer.js
+    │  Header.js
+    │  Home.js
+    │
+    ├─blog
+    │      Blog.js
+    │
+    ├─Game
+    │      Game.css
+    │      NumberGuessingGame.css
+    │      NumberGuessingGame.js
+    │      QuizApp.js
+    │
+    ├─movie
+    │      MovieCard.js
+    │      MovieList.js
+    │
+    └─Todo
+            TodoList.js
 ```
 ## 📚 STACKS
 <img src="https://img.shields.io/badge/react-61DAFB?style=for-the-badge&logo=reactos&logoColor=black">

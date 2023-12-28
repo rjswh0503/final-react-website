@@ -62,17 +62,8 @@ C:.
 
 ## Usage
 
-```python
-import foobar
+```React
 
-# returns 'words'
-foobar.pluralize('word')
-
-# returns 'geese'
-foobar.pluralize('goose')
-
-# returns 'phenomenon'
-foobar.singularize('phenomena')
 ```
 
 ## Contributing

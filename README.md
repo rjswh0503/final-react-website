@@ -29,6 +29,13 @@ Game
 ![1236](https://github.com/rjswh0503/final-react-website/assets/141482043/d76d9620-ada0-4e9a-bbb4-b58f9b99df64)
 
 
+Weather
+
+![image](https://github.com/rjswh0503/final-react-website/assets/141482043/df05839f-c0f5-455a-85b6-b00e085830a6)
+
+
+
+
 ### 웹사이트 설명 
 
 nodeJs와 Express를 활용한 backend 구성
@@ -88,14 +95,21 @@ C:.
 
 ## 구현기능
 
-1. API와 axios를 이용한 MovieList - 페이징
+1. MovieList - API와 axios를 이용한 MovieList(페이징)
 
 2. Todo List - 할일 목록, 삭제, 추가, 수정 
 
+<<<<<<< HEAD
 3. Game <br>
     3-1 - 숫자 맞추기 <br>
     3-2 - 퀴즈
     
+=======
+3. Game<br>
+    3-1 - 숫자 맞추기<br>
+    3-2 - 퀴즈<br>
+4. Weather - 날씨API axios를 이용한 Weather     
+>>>>>>> 93f64ab62396a1e06fa46a1e555b500229b925fc
 ## License
 
 [GitHub](https://github.com/rjswh0503/final-react-website/tree/main/client)

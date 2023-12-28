@@ -98,4 +98,4 @@ C:.
     
 ## License
 
-[GitHub](https://github.com/rjswh0503/)
+[GitHub](https://github.com/rjswh0503/final-react-website/tree/main/client)

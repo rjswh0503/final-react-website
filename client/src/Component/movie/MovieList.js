@@ -32,15 +32,25 @@ const MovieLIst = () =>{
 
     return (
         <>
-          <div className='w-auto p-3 d-flex justify-content-center '>
-              <Carousel>
-              {movies.map(movie => (
-                  <Carousel.Item key={movie.id} >
-                  <MovieCard movie={movie}/>
-                  </Carousel.Item>
-              ))}
-              </Carousel>
-          </div>
+                <div className='w-auto p-3 d-flex justify-content-center '>
+                  
+                        <Carousel 
+                            data-bs-theme="dark"
+                            controls={false}
+                            indicators={false}
+                            slide={false}
+                        >
+                            {movies.map(movie => (
+                                <Carousel.Item>
+                                    <div key={movie.id}>
+                                        <MovieCard  movie={movie}/>
+                                    </div>
+                                </Carousel.Item>
+                            ))}
+                            
+                        </Carousel>
+                    
+                </div>
         </>
     )
 
